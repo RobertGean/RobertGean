@@ -12,8 +12,8 @@ Olá! Eu sou o Robert Gean
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izadora&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/izadora)
-- [Meu Portfólio](https://meuportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/robertgean/?trk=opento_sprofile_details)
+- [Infojobs](https://www.infojobs.com.br/candidate/CV/Default.aspx?err=1&inccom=false&isspwc=)
 
 ---
 
